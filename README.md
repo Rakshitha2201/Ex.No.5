@@ -25,8 +25,10 @@ Run Experiments with ChatGPT:
 Input the naïve prompt for each scenario and record the generated response.
 Then input the corresponding basic prompt and capture that response.
 Repeat this process for all selected scenarios to gather a full set of results.
+
 Evaluate Responses : 
 	Compare how ChatGPT performs when given naïve versus basic prompts and analyze the output based on Quality,Accuracy and Depth. Also analyse does ChatGPT consistently provide better results with basic prompts? Are there scenarios where naïve prompts work equally well?
+	
 Deliverables:
 A table comparing ChatGPT's responses to naïve and basic prompts across all scenarios.
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
@@ -137,9 +139,11 @@ Insight: Structure dictates framing. The Basic prompt forced the model to repack
 
 Use the C.A.F.T.R. Framework for Basic/Refined Prompts:
 
+
 <img width="867" height="402" alt="Screenshot 2025-09-27 133844" src="https://github.com/user-attachments/assets/62eb2664-75a0-4a31-a9ca-fdad3aa6bb42" />
 
 # Overall Analysis of Prompt Clarity
+
 
 ![1_p-IVZ1iGJL_pmY6B2SlI8g](https://github.com/user-attachments/assets/aa7d6486-4b12-4d07-938c-fe9c96bbb1f3)
 
@@ -171,13 +175,18 @@ Naïve Usefulness: Naïve prompts only work equally well when the user genuinely
  
 For optimal LLM results, a prompt should contain the following elements:
 
+
 Persona/Audience: Define who the model should act as (e.g., "Act as a lawyer") or who the output is for (e.g., "for a non-technical audience").
+
 
 Core Task: Clearly state the goal using action verbs (e.g., Analyze, Compare, Synthesize, Prioritize).
 
+
 Context/Data: Include all relevant background information and constraints (e.g., specific figures, debt amounts, dates, or keywords).
 
+
 Format/Structure: Define the output structure (e.g., "Use a 3-point bulleted list," "Write a 500-word essay," "Output as a single paragraph").
+
 
 Tone/Style: Specify the desired tone (e.g., "cynical," "formal," "encouraging").
 
