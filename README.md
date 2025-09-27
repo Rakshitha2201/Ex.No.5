@@ -190,6 +190,9 @@ Format/Structure: Define the output structure (e.g., "Use a 3-point bulleted lis
 
 Tone/Style: Specify the desired tone (e.g., "cynical," "formal," "encouraging").
 
+<img width="735" height="492" alt="image" src="https://github.com/user-attachments/assets/7827c1f6-4678-4039-bbb5-60401a97bb6b" />
+
+
 # RESULT: 
 
 The experiment confirms that interacting with LLMs is primarily an exercise in prompt engineering.
